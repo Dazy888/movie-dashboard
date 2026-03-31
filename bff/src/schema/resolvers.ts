@@ -1,4 +1,4 @@
-import { searchMulti } from '@/services/tmdb.js';
+import { searchMulti } from '../services/tmdb.js';
 
 export const resolvers = {
     Query: {
